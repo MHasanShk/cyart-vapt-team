@@ -1,0 +1,16 @@
+Mitigation steps:
+
+Update Drupal CMS
+- Upgrade to the latest secure Drupal version.
+
+Apply Security Patches
+- Install official Drupal security updates addressing Drupalgeddon vulnerabilities.
+
+Web Application Firewall
+- Deploy WAF to block malicious requests.
+
+Restrict Web Server Permissions
+- Limit execution permissions on web directories.
+
+Disable Unnecessary Modules
+

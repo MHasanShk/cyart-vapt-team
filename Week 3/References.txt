@@ -1,0 +1,2 @@
+https://www.exploit-db.com/exploits/52473
+https://pratham2011-guiqe.wordpress.com/2025/09/04/%e2%98%95-dark-roast-security-dc1-vulnhub-walkthrough/

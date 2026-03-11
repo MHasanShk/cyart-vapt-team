@@ -1,0 +1,11 @@
+Executive Summary
+
+To mimic a real-world attack scenario, a penetration test was carried out against a susceptible virtual system hosted in a controlled lab environment. Finding exploitable vulnerabilities and assessing the efficacy of security controls were the goals. A serious flaw in the Drupal web application was found when the target system was examined using Kali Linux and the Metasploit Framework. The attacker was able to obtain unauthorized shell access to the system due to the vulnerability that permitted remote code execution. The exploitation showed that an attacker might run commands on the target server and perhaps jeopardize private data. This discovery emphasizes the dangers of out-of-date software and inadequate patch management procedures.
+
+Findings
+
+The Drupal Remote Code Execution vulnerability, often known as Drupalgeddon, was found. Attackers can run arbitrary commands on a susceptible Drupal installation thanks to this vulnerability. The Metasploit exploit module was able to connect to the target machine via reverse shell during the simulation. This demonstrated that the system could be completely hacked by an attacker and was susceptible to remote exploitation. System data, user privileges, and the capacity to execute commands were among the evidence gathered.
+
+Recommendations
+
+Applying all available security fixes and updating Drupal to the most recent supported version are highly advised. The danger of exploitation can be greatly decreased by putting in place a web application firewall, limiting server rights, and conducting frequent vulnerability checks.
